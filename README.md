@@ -8,7 +8,7 @@ Clicking here will create a copy in your own Google Drive: [![Open In Colab](htt
 
 ## User interface
 
-!['simulator screenshot]('/docs/screenshot.png')
+![simulator screenshot](https://raw.githubusercontent.com/iannickgagnon/simulation_passing_bablok/main/docs/screenshot.png)
 
 ---
 
