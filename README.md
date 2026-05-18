@@ -6,6 +6,12 @@ Clicking here will create a copy in your own Google Drive: [![Open In Colab](htt
 
 ---
 
+## User interface
+
+!['simulator screenshot]('/docs/screenshot.png')
+
+---
+
 ## Background
 
 Method comparison involves plotting measurements from two analytical methods against each other and fitting a regression line to assess agreement. This introduces two common pitfalls:
